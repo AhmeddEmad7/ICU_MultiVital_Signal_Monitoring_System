@@ -7,6 +7,9 @@ Welcome to the Multi-Port Signal Viewer project! This innovative desktop applica
 
 With features like synchronized dual graphs, real-time cinematic playback, and customizable signal parameters, the ICU Signal Sentinel equips clinicians with enhanced insights, enabling them to make informed decisions and deliver timely interventions for improved patient outcomes. Whether it's tracking normal and abnormal signal patterns or generating detailed reports, the ICU Signal Sentinel is set to become an invaluable asset in modern healthcare settings.
 
+## Preview
+![Animation Gif](Animation/Demo.mp4)
+
 ## Features at a Glance
 
 ### Signal Selection
