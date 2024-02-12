@@ -1,9 +1,9 @@
-# Multi-Port Signal Viewer
+# ICU Multi-Vital Signal Monitor
 
 
 ## Introduction
 
-Welcome to the Multi-Port Signal Viewer project! This innovative desktop application re-imagines how healthcare professionals monitor vital signals in intensive care units (ICUs). Leveraging the power of **Python** and **Qt**, this innovative tool provides a dynamic platform for visualizing and analyzing critical medical signals like ECG, EMG, EEG, and more.
+Welcome to the ICU Multi-Vital Signal Monitor project! This innovative desktop application re-imagines how healthcare professionals monitor vital signals in intensive care units (ICUs). Leveraging the power of **Python** and **Qt**, this innovative tool provides a dynamic platform for visualizing and analyzing critical medical signals like ECG, EMG, EEG, and more.
 
 With features like synchronized dual graphs, real-time cinematic playback, and customizable signal parameters, the ICU Signal Sentinel equips clinicians with enhanced insights, enabling them to make informed decisions and deliver timely interventions for improved patient outcomes. Whether it's tracking normal and abnormal signal patterns or generating detailed reports, the ICU Signal Sentinel is set to become an invaluable asset in modern healthcare settings.
 
