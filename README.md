@@ -1,4 +1,4 @@
-# ***Multi-Port Signal Viewer***
+# Multi-Port Signal Viewer
 
 
 ## Introduction
@@ -8,9 +8,9 @@ Welcome to the Multi-Port Signal Viewer project! This innovative desktop applica
 With features like synchronized dual graphs, real-time cinematic playback, and customizable signal parameters, the ICU Signal Sentinel equips clinicians with enhanced insights, enabling them to make informed decisions and deliver timely interventions for improved patient outcomes. Whether it's tracking normal and abnormal signal patterns or generating detailed reports, the ICU Signal Sentinel is set to become an invaluable asset in modern healthcare settings.
 
 ## Preview
-![Animation Gif](Animation/Demo.mp4)
+![Animation Gif](Demo.gif)
 
-## Features at a Glance
+## Features
 
 ### Signal Selection
 
@@ -53,14 +53,14 @@ With features like synchronized dual graphs, real-time cinematic playback, and c
 Gratitude goes out to all team members for their valuable contributions to this project.
 
 <div align="left">
+    <a href="https://github.com/AhmeddEmad7">
+    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
+  </a>
   <a href="https://github.com/hazemzakariasaad">
     <img src="https://github.com/hazemzakariasaad.png" width="100px" alt="@hazemzakariasaad">
   </a>
   <a href="https://github.com/nourhan-ahmedd">
     <img src="https://github.com/nourhan-ahmedd.png" width="100px" alt="@nourhan-ahmedd">
-  </a>
-  <a href="https://github.com/AhmeddEmad7">
-    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
   </a>
   <a href="https://github.com/raghdaneiazyy6">
     <img src="https://github.com/raghdaneiazyy6.png" width="100px" alt="@raghdaneiazy6">
