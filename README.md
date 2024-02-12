@@ -67,7 +67,7 @@ Gratitude goes out to all team members for their valuable contributions to this 
   </a>
 </div>
 
-## Supervised By
+## Acknowledgments
 
 **This project was supervised by Dr. Tamer Basha, who provided invaluable guidance and expertise throughout its development as a part of the Digital Signal Processing course at Cairo University Faculty of Engineering.**
 
@@ -75,11 +75,3 @@ Gratitude goes out to all team members for their valuable contributions to this 
     <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
 </div>
 
-
-
-## Acknowledgments
-
-
----
-
-**<span style="color:#f39c12">Ready to Transform ICU Monitoring?</span>** [Get Started](#) | [Explore Documentation](docs/) |
