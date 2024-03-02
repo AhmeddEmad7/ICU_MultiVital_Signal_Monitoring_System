@@ -8,7 +8,7 @@ Welcome to the ICU Multi-Vital Signal Monitor project! This innovative desktop a
 With features like synchronized dual graphs, real-time cinematic playback, and customizable signal parameters, the ICU Signal Sentinel equips clinicians with enhanced insights, enabling them to make informed decisions and deliver timely interventions for improved patient outcomes. Whether it's tracking normal and abnormal signal patterns or generating detailed reports, the ICU Signal Sentinel is set to become an invaluable asset in modern healthcare settings.
 
 ## Preview
-![Animation Gif](Demo.gif)
+![Animation Gif](Animation.gif)
 
 ## Features
 
